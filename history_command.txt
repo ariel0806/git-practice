@@ -1,0 +1,105 @@
+    1  pwd
+    2  Is
+    3  ls
+    4  cd OSS
+    5  pwd
+    6  Is
+    7  ls
+    8  cd OS test
+    9  cd OSS
+   10  pwd
+   11  ls
+   12  cd OSS
+   13  pwd
+   14  ls
+   15  cd..
+   16  pwd
+   17  cd ..
+   18  pwd
+   19  cd OSS/tranformers
+   20  cd OSS/transformers
+   21  pwd
+   22  ls
+   23  cd ../neuralintlab
+   24  ls
+   25  ls -l
+   26  ls -h
+   27  ls -lh
+   28  cd ..
+   29  ls -lh
+   30  pwd
+   31  cd OSS /transformers
+   32  cd OSS/transformers
+   33  cd OSS/transformers
+   34  cd transformers
+   35  ls
+   36  cp module_test.txt backup_module.txt
+   37  ls
+   38  cp -r ../neuralintlab .
+   39  ls
+   40  cd neuralintlab
+   41  ls
+   42  pwd
+   43  mv module_test.txt new_module_test.txt
+   44  mv module_test.txt new_module.txt
+   45  pwd
+   46  cd ..
+   47  pwd
+   48  ls
+   49  mv module_test.txt new_module.txt
+   50  ls
+   51  mv new_module.txt ../neuralintlab
+   52  cd ../neuralintlab
+   53  ls
+   54  cd ../transformers
+   55  mv neuralintlab nil
+   56  ls
+   57  pwd
+   58  cd ../neuralintlab
+   59  pwd
+   60  ls
+   61  rm new_module.txt
+   62  ls
+   63  pwd
+   64  cd ..
+   65  pwd
+   66  ls
+   67  mkdir new_directory
+   68  ls
+   69  help cd
+   70  man cp
+   71  pwd
+   72  ls
+   73  cd OSS
+   74  PWD
+   75  ls
+   76  cd tansformers
+   77  cd transformers
+   78  pwd
+   79  ls -lh
+   80  ls -lh>file_list.txt
+   81  cat file_list.txt
+   82  ls -lh >>file_list.txt
+   83  cat file_list.txt
+   84  cat words.txt
+   85  cat words.txt
+   86  sort < words.txt > sorted_words.txt
+   87  cat sorted_words.txt
+   88  ls -lh | less
+   89  ls | wc -l
+   90  echo print out the text
+   91  echo *
+   92  echo ~
+   93  ls -l--reverse--human-readable
+   94  ls -l --reverse --human-readable
+   95  pwd
+   96  ls
+   97  chmod 644 words.txt
+   98  ls -lh
+   99  nano
+  100  nano myscript.sh
+  101  ls
+  102  sh myscript.sh
+  103  ls -lh
+  104  sh myscript.sh
+  105  history > history_command.txt

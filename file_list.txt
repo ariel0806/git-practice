@@ -1,0 +1,10 @@
+total 2.0K
+-rw-r--r-- 1 ariel 197609 5 Sep 28 14:01 README_test.txt
+-rw-r--r-- 1 ariel 197609 5 Sep 28 14:25 backup_module.txt
+-rw-r--r-- 1 ariel 197609 0 Oct  5 20:48 file_list.txt
+drwxr-xr-x 1 ariel 197609 0 Sep 28 14:27 nil/
+total 3.0K
+-rw-r--r-- 1 ariel 197609   5 Sep 28 14:01 README_test.txt
+-rw-r--r-- 1 ariel 197609   5 Sep 28 14:25 backup_module.txt
+-rw-r--r-- 1 ariel 197609 228 Oct  5 20:48 file_list.txt
+drwxr-xr-x 1 ariel 197609   0 Sep 28 14:27 nil/
